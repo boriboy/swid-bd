@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "privacy": "public",
+    "sdkVersion": "26.0.0",
+    "name": "אבא סויד",
+    "slug": "dad-swid-bd",
+    "icon": "./img/icon.png",
+    "splash": {
+      "image": "./img/splash.png"
+    },
+    "ios": {
+      "bundleIdentifier": "com.boop.apps.swid.bd"
+    },
+    "android": {
+      "package": "com.boop.apps.swid.bd"
+    }
+  }
+}
